@@ -4,4 +4,6 @@
 # Liquid Swipe page 1
 ![image](https://user-images.githubusercontent.com/62868878/120662894-24263b80-c4a7-11eb-8edf-45e9cbb732fd.png)
 
-# # Liquid Swipe page 2
+# Liquid Swipe page 2
+![image](https://user-images.githubusercontent.com/62868878/120663014-461fbe00-c4a7-11eb-82d5-e130e156bec9.png)
+
