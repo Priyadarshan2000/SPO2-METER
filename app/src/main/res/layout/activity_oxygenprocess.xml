@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/back"
-    tools:context=".startActivity">
+    tools:context=".oxygenprocess">
 
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/animation_view"
@@ -54,5 +54,7 @@
         android:text="Calculating Please HoldOn"
         android:textColor="#BA1212"
         android:textSize="34sp" />
+
+    
 
 </RelativeLayout>

@@ -3,6 +3,7 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/aclonica</item>
         <item>@font/acme</item>
+        <item>@font/chango</item>
         <item>@font/faster_one</item>
     </array>
 </resources>

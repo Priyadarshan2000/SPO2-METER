@@ -29,6 +29,6 @@ public class uiDesign extends AppCompatActivity {
     }
 
     public void openAct(){
-        Intent intent=new Intent(this,startActivity.class);
+        Intent intent=new Intent(this,oxygenprocess.class);
         startActivity(intent);
     }}
