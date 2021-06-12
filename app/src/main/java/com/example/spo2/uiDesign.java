@@ -11,24 +11,18 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class uiDesign extends AppCompatActivity {
-    Button startButton;
-    TextView textView2,textView3;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ui_design);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
         Button button = findViewById(R.id.startButton);
-        button.setOnClickListener(new View.OnClickListener() {
-
-            @Override
-            public void onClick(View v) {
-                openAct();
-            }
+        button.setOnClickListener(v -> {
+            Intent intent = new Intent(v.getContext(), oxygenprocess.class);
+            startActivity(intent);
+            finish();
         });
     }
+    }
 
-    public void openAct(){
-        Intent intent=new Intent(this,oxygenprocess.class);
-        startActivity(intent);
-    }}
