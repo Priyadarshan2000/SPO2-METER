@@ -33,13 +33,32 @@ Click on the **Click Here** to see the Document to Handwritting Demo on YouTube.
 ![image](https://user-images.githubusercontent.com/62868878/122048713-41400000-cdff-11eb-98c5-59d98fdccc31.png)
 
 
+## 🚀 UI of SPO2 METER App
+
+### Splash Screen
+![image](https://user-images.githubusercontent.com/62868878/122051570-5ff3c600-ce02-11eb-9508-3f76fe39c662.png)
+### liquid Screens 
+
+![image](https://user-images.githubusercontent.com/62868878/122051673-7d289480-ce02-11eb-8e87-a1d81d2bf294.png)
+
+![image](https://user-images.githubusercontent.com/62868878/122051697-83b70c00-ce02-11eb-8223-2692af6aafe8.png)
+
+![image](https://user-images.githubusercontent.com/62868878/122051727-8d407400-ce02-11eb-90cd-0e3a430663e3.png)
+
+### Starting Activity
+![image](https://user-images.githubusercontent.com/62868878/122051787-9af5f980-ce02-11eb-9432-010fc7214f17.png)
+
+### Calculating Your Oxygen saturation level
+
+![image](https://user-images.githubusercontent.com/62868878/122052127-fa540980-ce02-11eb-84d2-cd93afc12f55.png)
+
+![image](https://user-images.githubusercontent.com/62868878/122052156-0213ae00-ce03-11eb-8ce6-88e34d381609.png)
+
+
+
 
 ## 🚀 Author(s)
 
 - Priyadarshan Ghosh (Priyadarshan2000) & 
-
-## 🚀 UI of SPO2 METER App
-
-### Splash Screen
 
 
