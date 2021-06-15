@@ -66,6 +66,6 @@ Click on the **Click Here** to see the Document to Handwritting Demo on YouTube.
 
 ## 🚀 Author(s)
 
-- Priyadarshan Ghosh (Priyadarshan2000) & 
+- Priyadarshan Ghosh (Priyadarshan2000) & ARNAB RAY (Arnab11917676)
 
 
