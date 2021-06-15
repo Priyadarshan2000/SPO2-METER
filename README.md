@@ -3,20 +3,18 @@
 
 
 ## Functionalities:
-
-
-
+- This **SPO2 METER** is a test used to measure the oxygen level (oxygen saturation) of the blood. It is an easy, painless measure of how well oxygen is being sent to parts of your body furthest from your heart, such as the arms and legs. 
+- This **SPO2 METER** Works any of your Android SmartPhone (Above Android Nougat 7.0 Version)
 
 ## Setup instructions
+- Download This **SPO2 METER** App From **Amazon App Store** or Google drive Link and install your Android Phone.
+- Goto **SPO2 METER** App Settings then App Permission And Allow the Camera Permission.
 
+![image](https://user-images.githubusercontent.com/62868878/122045473-67fc3780-cdfb-11eb-8ba1-4aa0931f8ec5.png)
 
 
 ## Requirements:
-
-
-```bash
-live server Extension (only for Vs code)
-```
+- Android SmartPhone (Above Android Nougat 7.0 Version)
 
 Click on the **Click Here** to see the Document to Handwritting Demo on YouTube.
 
