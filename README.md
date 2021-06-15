@@ -24,7 +24,7 @@ Click on the **Click Here** to see the Document to Handwritting Demo on YouTube.
 
 | Name of Script | YouTube Link |  Developer | Tools Used |
 | --- | --- | --- | --- 
-|**SPO2 METER**| [Click Here](https://www.youtube.com/watch?v=mLCL7OZ4JFQ)| [Priyadarshan Ghosh](https://github.com/Priyadarshan2000) & [ARNAB RAY](https://github.com/Arnab11917676) | **Java,Advanced Image Processing**
+|**SPO2 METER**| [Click Here]()| [Priyadarshan Ghosh](https://github.com/Priyadarshan2000) & [ARNAB RAY](https://github.com/Arnab11917676) | **Java,Advanced Image Processing**
 
 ## 🚀 Code Snippet
 ![image](https://user-images.githubusercontent.com/62868878/122046147-2ae47500-cdfc-11eb-99ca-3b0c56063973.png)
