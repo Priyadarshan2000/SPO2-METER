@@ -64,6 +64,11 @@ Click on the **Click Here** to see the Document to Handwritting Demo on YouTube.
 
 ![image](https://user-images.githubusercontent.com/62868878/122052610-7b130580-ce03-11eb-9d15-64a47818013e.png)
 
+## 🚀 Demo of The App
+![ss](https://user-images.githubusercontent.com/62868878/122096947-bb3aae00-ce2c-11eb-8091-50d46deaa6da.gif)
+
+
+
 ## 🚀 Author(s)
 
 - Priyadarshan Ghosh (Priyadarshan2000) & ARNAB RAY (Arnab11917676)
