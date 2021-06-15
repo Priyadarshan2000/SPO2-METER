@@ -35,9 +35,9 @@ Click on the **Click Here** to see the Document to Handwritting Demo on YouTube.
 
 ## 🚀 UI of SPO2 METER App
 
-### Splash Screen
+## 🚀 Splash Screen
 ![image](https://user-images.githubusercontent.com/62868878/122051570-5ff3c600-ce02-11eb-9508-3f76fe39c662.png)
-### liquid Screens 
+## 🚀 Liquid Screens 
 
 ![image](https://user-images.githubusercontent.com/62868878/122051673-7d289480-ce02-11eb-8e87-a1d81d2bf294.png)
 
@@ -45,17 +45,24 @@ Click on the **Click Here** to see the Document to Handwritting Demo on YouTube.
 
 ![image](https://user-images.githubusercontent.com/62868878/122051727-8d407400-ce02-11eb-90cd-0e3a430663e3.png)
 
-### Starting Activity
+## 🚀 Starting Activity
 ![image](https://user-images.githubusercontent.com/62868878/122051787-9af5f980-ce02-11eb-9432-010fc7214f17.png)
 
-### Calculating Your Oxygen saturation level
+## 🚀 Calculating Your Oxygen saturation level
 
 ![image](https://user-images.githubusercontent.com/62868878/122052127-fa540980-ce02-11eb-84d2-cd93afc12f55.png)
 
 ![image](https://user-images.githubusercontent.com/62868878/122052156-0213ae00-ce03-11eb-8ce6-88e34d381609.png)
 
+## 🚀 Result 
+![image](https://user-images.githubusercontent.com/62868878/122052366-3b4c1e00-ce03-11eb-9a65-f4b12a8fe0ef.png)
 
+## 🚀 Sharing Option
+![image](https://user-images.githubusercontent.com/62868878/122052427-4dc65780-ce03-11eb-8c88-fd2422133024.png)
 
+## 🚀 Share Result with your Friend
+
+![image](https://user-images.githubusercontent.com/62868878/122052610-7b130580-ce03-11eb-9d15-64a47818013e.png)
 
 ## 🚀 Author(s)
 
