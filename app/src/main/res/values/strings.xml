@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SPO2</string>
+    <string name="page_one_tittle">Wash your hands frequently</string>
+    <string name="page_one_content">Use warm water and soap and rub your hands for at least 20 seconds.work the lather to your wrists,between your fingers,and under fingers,and under your fingernails.you can also use an antibacterial and antiviral soap</string>
+
+    <string name="page_two_tittle">Wear a mask</string>
+    <string name="page_two_content">The Centers for disease control and prevention (CDC) recommends that almost everyone wears a cloth face mask in public settings where physical distancing may be difficult such as grocery store</string>
+
+    <string name="page_three_tittle">Stay at home</string>
+    <string name="page_three_content">Maintain a distance of at least 1.5 meters from others as much as possible,and avoid crowded places.why? Droplets from cough or sneezing that you come into contact with and can live on diffrent surfaces for up to 3 days</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

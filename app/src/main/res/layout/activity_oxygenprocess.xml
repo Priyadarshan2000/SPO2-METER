@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    tools:context=".oxygenprocess">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animation_view1"
+        android:layout_width="185dp"
+        android:layout_height="54dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="103dp"
+        android:layout_marginTop="507dp"
+        android:layout_marginEnd="122dp"
+        android:layout_marginBottom="170dp"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="5697-loading-25-ecg.json"
+        app:lottie_loop="true" />
+
+    <ProgressBar
+        android:id="@+id/animation_view"
+        android:layout_width="85dp"
+        android:layout_height="90dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="156dp"
+        android:layout_marginTop="550dp"
+        android:layout_marginEnd="170dp"
+        android:layout_marginBottom="90dp"
+        android:indeterminate="false"
+        android:max="27"
+        android:progress="1"
+        android:progressDrawable="@drawable/circular_progress_bar" />
+
+    <SurfaceView
+        android:id="@+id/preview"
+        android:layout_width="323dp"
+        android:layout_height="414dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="42dp"
+        android:layout_marginTop="37dp"
+        android:layout_marginEnd="46dp"
+        android:layout_marginBottom="280dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="107dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="53dp"
+        android:layout_marginTop="316dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginBottom="308dp"
+        android:fontFamily="@font/aclonica"
+        android:text="Calculating Please HoldOn"
+        android:textColor="#BA1212"
+        android:textSize="34sp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="157dp"
+        android:layout_height="53dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="130dp"
+        android:layout_marginTop="74dp"
+        android:layout_marginEnd="124dp"
+        android:layout_marginBottom="603dp"
+        android:fontFamily="@font/aclonica"
+        android:includeFontPadding="false"
+        android:text="Please wait for 30sec"
+        android:textColor="#9F3030"
+        android:textSize="20sp" />
+
+
+</RelativeLayout>

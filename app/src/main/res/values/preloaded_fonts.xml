@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/baloo_bhai</item>
+        <item>@font/bevan</item>
+        <item>@font/boogaloo</item>
+        <item>@font/chango</item>
+        <item>@font/faster_one</item>
+        <item>@font/fugaz_one</item>
+        <item>@font/rubik_mono_one</item>
+        <item>@font/zeyada</item>
+    </array>
+</resources>

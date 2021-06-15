@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".oxygencalculate">
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animation_view"
+        android:layout_width="288dp"
+        android:layout_height="360dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="57dp"
+        android:layout_marginTop="186dp"
+        android:layout_marginEnd="66dp"
+        android:layout_marginBottom="185dp"
+        app:lottie_autoPlay="true"
+        app:lottie_fileName="30221-bubbles.json"
+        app:lottie_loop="true" />
+
+
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="318dp"
+        android:layout_height="64dp"
+        android:layout_alignBottom="@+id/animation_view"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="69dp"
+        android:layout_marginTop="182dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="299dp"
+        android:fontFamily="@font/chango"
+        android:text="OXYGEN  LEVEL"
+        android:textColor="#0E2FE6"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/o2r"
+        android:layout_width="81dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="201dp"
+        android:layout_marginTop="273dp"
+        android:layout_marginEnd="129dp"
+        android:layout_marginBottom="412dp"
+        android:text="XX"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_alignBottom="@+id/animation_view"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="123dp"
+        android:layout_marginTop="331dp"
+        android:layout_marginEnd="106dp"
+        android:layout_marginBottom="145dp"
+        android:fontFamily="@font/acme"
+        android:text="NORMAL OXYGEN LEVEL \n \t\t\t\t\t\t\t\t95-100"
+        android:textColor="#D80B0B"
+        android:textSize="16sp"
+        android:textStyle="bold|italic" />
+
+    <Button
+        android:id="@+id/SendO2"
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="118dp"
+        android:layout_marginTop="439dp"
+        android:layout_marginEnd="103dp"
+        android:layout_marginBottom="233dp"
+        android:text="Share" />
+
+
+</RelativeLayout>
