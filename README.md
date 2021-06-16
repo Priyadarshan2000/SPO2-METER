@@ -29,6 +29,7 @@ Click on the **Click Here** to see the Document to Handwritting Demo on YouTube.
 ## 🚀 Code Snippet
 ![image](https://user-images.githubusercontent.com/62868878/122046147-2ae47500-cdfc-11eb-99ca-3b0c56063973.png)
 
+
 ## 🚀 Advanced Image Processing Code Snippet
 ![image](https://user-images.githubusercontent.com/62868878/122048713-41400000-cdff-11eb-98c5-59d98fdccc31.png)
 
