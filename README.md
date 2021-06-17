@@ -20,7 +20,7 @@ The Mobile Phone uses the light Source to evaluate SPO2 and the change of the Li
 ## 🚀 Requirements:
 - Android SmartPhone (Above Android **Nougat 7.0** Version)
 
-Click on the **Click Here** to see the Document to Handwritting Demo on YouTube.
+Click on the **Click Here** to see the **SPO2 METER** Demo on YouTube.
 
 | Name of Script | YouTube Link |  Developer | Tools Used |
 | --- | --- | --- | --- 
