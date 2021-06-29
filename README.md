@@ -1,3 +1,4 @@
+
 # 🚀 SPO2 METER
 We Developed an **SPO2 METER** Application using Java & **Advanced Image Processing**. This **SPO2 METER** is a test used to measure the oxygen level (oxygen saturation) of the blood. This App Run any android smartphone (Above Android Nougat 7.0 Version). You can place your index Finger on your Phone camera then This application will manage to get you. your oxygen saturation level and Share your oxygen saturation level with your family, friend and doctor using WhatsApp, Telegram, E-mail etc.
 
